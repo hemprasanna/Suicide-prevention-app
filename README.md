@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Suicide Prevention Through Social Media Analytics
 
 ## Overview
@@ -177,3 +178,7 @@ This project is for educational purposes as part of CMSE 830 coursework.
 ---
 
 **Important Note:** This is a demonstration project for educational purposes. In real-world applications, suicide prevention requires trained professionals, proper protocols, and immediate response systems. This tool is designed to assist, not replace, professional mental health services.
+=======
+# Suicide-prevention-app
+App to detect suicide intent through messages
+>>>>>>> 679c411567176372ed5f93aace2f6206c77e7d3a
